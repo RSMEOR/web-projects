@@ -4,10 +4,6 @@ html {
 }
 
 h1 {
-    margin: 0;
-    padding: 20px 0;
-    color: rgb(247, 132, 0)
-    text-shadow: 3px 3px 1px white;
     font-size: 65px;
     text-align: center;
 
@@ -20,17 +16,23 @@ p, li {
 
 }
 html {
-    background-color: #ccccff;
+    background-color: rgb(58, 55, 50);
 }
 body {
     width: 600px;
     margin: 0 auto;
     background-color: #FF9500;
     padding: 0 20px 20px 20px;
-    border: 7px solid black;
+    border: 10px solid black;
 }
 img {
     display: block;
     width: 500px;
     margin: 0 auto;
 }
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: black;
+    text-shadow: 3px 3px 1px grey;
+    }
